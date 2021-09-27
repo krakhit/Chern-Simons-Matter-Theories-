@@ -12,17 +12,16 @@ I will probably put some kind of summary file, with all the background in this s
 
 Some of our contributions to this amazing subject are
 
-1. Scattering amplitudes in N=3 theory and checks of Duality. (This was very painful, but satisfactory :) ) 
-https://arxiv.org/abs/2001.02363
-https://arxiv.org/abs/1908.08119
+1. Scattering amplitudes in N=3 theory and checks of Duality. (This was very painful, but satisfactory :) 
+    1. https://arxiv.org/abs/2001.02363
+    2. https://arxiv.org/abs/1908.08119
 
-2. Correlation functions in N=1,2 theories
-https://arxiv.org/abs/1907.11722
+2. Correlation functions in N=1,2 theories https://arxiv.org/abs/1907.11722
 
 3. Some cool stuff (I had super fun writing these :) )
-  a. Recursion relations for n point tree level amplitudes in N=2 Chern-Simons theories
+  1. Recursion relations for n point tree level amplitudes in N=2 Chern-Simons theories
   https://arxiv.org/abs/1710.04227
-  b. Dual superconformal symmetry of N=2 Chern-Simons theories and tree level exactness of the 4 point amplitude
+  2. Dual superconformal symmetry of N=2 Chern-Simons theories and tree level exactness of the 4 point amplitude
   https://arxiv.org/abs/1711.02672
 
 4. The first paper where we did the computation of exact four point correlators of N=1 superfields to all orders in coupling, computed the S matrices, and rigorously demonstrated he duality by mapping bosonic S matrices and fermionic S matrices.
