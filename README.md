@@ -8,8 +8,6 @@ At finite N and k, these theories are realistic models that exhibit quantum hall
 
 This is a facinating subject, dear to me, deep and intriguing in complexity and depth, with potential practical applications. While the mathematics behind it can be intimidating, the symmetries that one encounters leads to robust results, and the physical explanation is often so simple to understand.
 
-I will probably put some kind of summary file, with all the background in this subject, perhaps an arxiv review, when I get time. 
-
 Some of our contributions to this amazing subject are
 
 1. Scattering amplitudes in N=3 theory and checks of Duality. (This was very painful, but satisfactory :) 
@@ -25,3 +23,5 @@ Some of our contributions to this amazing subject are
 
 4. The first paper where we did the computation of exact four point correlators of N=1 superfields to all orders in coupling, computed the S matrices, and rigorously demonstrated he duality by mapping bosonic S matrices and fermionic S matrices.
 https://arxiv.org/abs/1505.06571
+
+On the software side: I am sure that the existing Grassmann package can be enhanced significantly to do much more symbolic manipulations with susy in mathematica, similar to applying variational techniques on software such as Cadabra. 
